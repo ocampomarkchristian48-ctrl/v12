@@ -148,7 +148,7 @@ background:#4caf50;
 
 /* HIDDEN */
 .hidden{
-display:none;
+display:none; !important;
 }
 
 /* SKY BACKGROUND */
